@@ -19,9 +19,9 @@ server.use(function(req,res,next){
   next();
 });
 
-// DB config --> hide URI
+// DB config --> hide URIs
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://sonny:MDBTecnoom1@ds161751.mlab.com:61751/lumiere', { useNewUrlParser: true });
+mongoose.connect(to-add, { useNewUrlParser: true });
 
 const db = mongoose.connection;
 db.on('error', console.error.bind('connection error')); {/* eslint-disable-line*/}
