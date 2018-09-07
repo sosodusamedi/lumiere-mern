@@ -1,0 +1,50 @@
+.app {
+  font-family: Helvetica;
+}
+
+legend {
+  text-decoration: underline;
+}
+
+.userProfile {
+  display: flex;
+  width: 100%;
+}
+
+.userDetail {
+  position: fixed;
+  width: 250px;
+  height: 100%;
+  background-color: #fffbd3;
+}
+
+.userInfos li {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+
+.userInfo {
+  display: block;
+}
+
+.userInfo legend {
+  padding: 0px 0px;
+  margin: 0px 0px;
+}
+
+.userInfo li {
+  margin: 5px 0px 10px 0px;
+}
+
+#userName {
+  margin: 15px 0 0 20px;
+  font-size: 25px;
+}
+
+.messagesSide {
+  width: 75%;
+  position: relative;
+  left: 250px;
+  padding-left: 30px;
+}

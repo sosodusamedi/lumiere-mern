@@ -1,0 +1,18 @@
+.app {
+  font-family: Helvetica;
+}
+
+.app button {}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.container button {
+  margin-top: 50px;
+  width: 15rem;
+  height: 4rem;
+  padding: 15px 20px;
+  font-size: 20px;
+}

@@ -1,0 +1,32 @@
+.app {
+  font-family: Helvetica;
+}
+
+.button {
+  height: 2rem;
+  font-size: 15px;
+  margin: 5px 10px;
+}
+
+#updateUserForm {
+  font-family: Helvetica;
+}
+
+#updateUserForm input {
+  font-size: 16px;
+}
+
+#updateUserForm fieldset {
+  width: 35%;
+  margin: 15px 40px 20px 30px;
+}
+
+#updateUserForm > legend {
+  margin-top: 20px;
+}
+
+#updateUserForm .button {
+  height: 2rem;
+  font-size: 15px;
+  margin: 5px 10px;
+}

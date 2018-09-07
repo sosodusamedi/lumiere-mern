@@ -1,0 +1,11 @@
+.app {
+  font-family: Helvetica;
+}
+
+.addButton {
+  margin-top: 15px;
+  width: 10rem;
+  height: 3rem;
+  padding: 15px 10px;
+  font-size: 15px;
+}

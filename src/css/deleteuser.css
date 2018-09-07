@@ -1,0 +1,19 @@
+.app {
+  font-family: Helvetica;
+}
+
+.button {
+  height: 2rem;
+  font-size: 15px;
+  margin: 5px 10px;
+}
+
+#deleteUserForm {
+  font-family: Helvetica;
+}
+
+#deleteUserForm .button {
+  height: 2rem;
+  font-size: 15px;
+  margin: 5px 10px;
+}
